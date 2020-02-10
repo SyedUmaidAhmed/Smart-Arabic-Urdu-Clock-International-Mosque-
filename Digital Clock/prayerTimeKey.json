@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "prayertimes-13825",
+  "private_key_id": "a17d423b3111f398d864ba24ec81e6f795b9f284",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDftls/V7/+3yG4\npd9ipfzWfoGY1MdhK2lam2ZuiO5PbQYaSNTOL3IPoMzvr/AyLOMHup8hQ+yk/tzT\nah/Ip3ACekFD0umskwdgwGObVG2KZA/TIMkHqNs4QJGZggiw45miRAFTKAFd0JMr\nR69mm1CG898VNzSjN9jIdUDnRL06mzHHxRfr/QqZgAmm6KzJK1f9pFuWDHOO8Y/s\nGdM187uzXTB7s5MolgxxyQj0+CAOBoyVXIzx9aW9uYWJOkkBYniIJleTVwD+MX31\nG4tCsGEJax/0k8ryQg/9peO5Z6iBXPoxAqKTOpmfEDVLRuwJU359jxb/HJeCYGoU\ngFfhM3ytAgMBAAECggEAB2N58wceZ7gN4I/V52etCJaICDiq1xo8cgok4WyzVjs3\nEuIp6R9nCH4alqX8bGPQIb63p70bET37pB3iq9lf2S0Zf7h1EEaQ3VCtWYF51rLE\nVQhFq3OXve1gAa5qRBFYTyQo2Qq+tM8BNVI6SEzD5ZkjWouGuQdMqR46RQkfqNJM\nikuqmb4Wcdub+Wkp6ZG2/5tZ8HbolmdciBPLpYwKrkpbb9tWCKdErvyboeWj6oWy\nuwJOoYVZZkYQjCjBbsZK4jcchdw5saMs+jlm01RbL00M7Jy8aSTr2mm8kjFt8gh1\ncz9eNHiNOW7M3o8ojtp2PSTstjwxPQO+h4mkR3K43wKBgQD4soous4bPTdHSbOdt\n1DnLNrtDitLwjZoSXPcbsTJC+Dnpzw5x9aBEG1zyszeAGOSREQYoqYmRD0krAlSL\nenhsn1WVPUfE2eA8i0i2AWe3IT3p3IWjCLrzz7TEi4KUwjg2Mm/70YjfGQQSf4MX\nvMxt7YlLewYnhI4DDjL8vFiCkwKBgQDmSADpLBSERqXHdQGfJMUDMD/mc1J2BHtk\nydGsibNt7dAal7zbLucx+8qSgElAULiSd4AgD2rZLQ2tO1hGqPMxoyddgzXJBSsK\nQFMIvDTK078xDFPQwoSRSdfuhMQA8iFWczXugflwA5chCdrCnajwUiWgkHVanm/+\nrN5C1BNLvwKBgH/PugZwSzslAk2DnJisNhuDAFCg+vGXxHPlhTWdJniWe6T2vbTB\niGEYMvekNUTHBkirmB+zqbh8Q50v8GVSRquEY4Z0XPsFAiH7bx3isPvDwL78j02P\ngg0lVQChtjVfb2YjG7wuHoqRn68mCyha5jEkn6fEDRCoJhfZ50hOP6qzAoGBAKYs\nN1wLjxKU2HRCHtV0dyaB3tqxRUQcn95vNHrJM02UWqOV85ZHFlafV+K36CQdG9O1\noCOCfJwTQtdLB7yVlkivb2yvjlRtAk33dPPMvFvQyRrfxmvSsk8VdliMPdRg5WW4\n5aYi7JjEPn582fuuQYaKANUI6WZnBnJE1G5tEy+JAoGBAII08X+EtqaLMK0bOmRY\nT0HZGmmjkjvep3g78Hku26KLI6cRup4Ip1jbR8277JdEOv8O7hbQqs8UmqWJqyMQ\nEUNRp1ERn48cybLPH209h+AwqRfgCLVLr+wl/q2eFlk20S9adXsACOCUPOuKs1nX\nbMwAYjiXsySMKUbkCAwTe9CL\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-asty8@prayertimes-13825.iam.gserviceaccount.com",
+  "client_id": "112737130246556589049",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-asty8%40prayertimes-13825.iam.gserviceaccount.com"
+}
